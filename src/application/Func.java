@@ -29,7 +29,7 @@ public class Func {
 		funcionario.aumentarSalario(aum);
 
 		System.out.println(funcionario.toString());
-
+		System.out.println("ajdjafha");
 		sc.close();
 	}
 
