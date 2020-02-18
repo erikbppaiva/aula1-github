@@ -30,6 +30,8 @@ public class Func {
 
 		System.out.println(funcionario.toString());
 		System.out.println("ajdjafha");
+		
+		
 		sc.close();
 	}
 
